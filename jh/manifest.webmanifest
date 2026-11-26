@@ -1,0 +1,2 @@
+{"id":"/web-launcher/jh/","name":"JH-HUB","short_name":"JH-HUB","description":"개인·SM·SNT·SLT·HNC·협동조합 웹앱 통합","start_url":"/web-launcher/jh/go.html","scope":"/web-launcher/jh/","display":"standalone","background_color":"#10231f","theme_color":"#10231f","lang":"ko",
+"icons":[{"src":"jh-192.png","sizes":"192x192","type":"image/png","purpose":"any"},{"src":"jh-512.png","sizes":"512x512","type":"image/png","purpose":"any"},{"src":"jh-512.png","sizes":"512x512","type":"image/png","purpose":"maskable"}]}
